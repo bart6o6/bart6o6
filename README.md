@@ -11,9 +11,27 @@ Check the below presented list of my git-hub repositories, skills I'm developing
 
 
 Chronological order of self-developed projects:
-1. a
-2. a
-3. a
+1. Front-end landing page for a hotel
+      Description: built learning html, css, bootstrap
+      repo: https://github.com/bart6o6/Paradise-Resort
+      preview: 
+      
+2. Landing page for roof construction crew
+      Description: built learning Wordpress and Elementor 
+      repo: 
+      live demo: 
+      
+3. Simple tool for foundry furnance workers to check if the chemical composition is in desired range
+      Description: built learning vanilla javascript
+      repo: https://github.com/bart6o6/Cast-Iron-chemical-composition-check
+      live demo: https://bart6o6.github.io/Cast-Iron-chemical-composition-check/
+
+
+4. Simple weather website where I could preview the temperature and incoming rain in my city
+      Description: built with javascript learning jQuery and api fetch from [api.open-meteo.com](https://api.open-meteo.com)
+      repo: 
+      live demo: 
+
 
 I am familiar with:
 1. a
