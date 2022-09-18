@@ -23,9 +23,9 @@ Chronological order of self-developed projects:
 2. Landing page for roof construction crew
       Description: built learning Wordpress and Elementor 
      
-      repo: 
+     	repo: https://github.com/bart6o6/js_dekarstwo
       
-	live demo: 
+	live demo: https://bart6o6.github.io/js_dekarstwo/
       
 	
 3. Simple tool for foundry furnance workers to check if the chemical composition is in desired range
@@ -45,8 +45,23 @@ Chronological order of self-developed projects:
       
 	live demo: 
 
+5. Other coding / IT projects i worked on:
+	
+	I 
+      
+	II 
+
 
 I am familiar with:
-1. a
-2. a
+
+	1. Intermediate HTML/CSS/vanilla JS
+	2. Basics of jQuery
+	3. Basics of PHP queries
+	4. Intermediate Bootstrap framework 
+	5. Basics of websites creating with Wordpress and Elementor
+	6. Intermediate AutoHotkey
+	7. Very good knowledge of Excel sheets and basics of VBA coding
+	8. Basics of working with GIT
+	9. GIMP graphics manipulation and willing to learn Figma
+	10. 
 
