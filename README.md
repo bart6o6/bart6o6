@@ -21,16 +21,16 @@ Chronological order of self-developed projects:
       
 	
 2. Landing page for roof construction crew
-      Description: built learning Wordpress and Elementor 
+	Description: built learning Wordpress and Elementor 
      
-     	repo: https://github.com/bart6o6/js_dekarstwo
+	repo: https://github.com/bart6o6/js_dekarstwo
       
 	live demo: https://bart6o6.github.io/js_dekarstwo/
       
 	
 3. Simple tool for foundry furnance workers to check if the chemical composition is in desired range
      
-     Description: built learning vanilla javascript
+	Description: built learning vanilla javascript
       
 	repo: https://github.com/bart6o6/Cast-Iron-chemical-composition-check
       
