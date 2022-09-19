@@ -17,7 +17,7 @@ Chronological order of self-developed projects:
 
 	repo: https://github.com/bart6o6/Paradise-Resort
 	
-	preview: https://bart6o6.github.io/Paradise-Resort/
+	live demo: https://bart6o6.github.io/Paradise-Resort/
       
 	
 2. Landing page for roof construction crew
@@ -41,9 +41,9 @@ Chronological order of self-developed projects:
       
 	Description: built with javascript learning jQuery and api fetch from [api.open-meteo.com](https://api.open-meteo.com)
       
-	repo: 
+	repo: https://github.com/bart6o6/Weather-API-fetch
       
-	live demo: 
+	live demo: https://bart6o6.github.io/Weather-API-fetch/
 
 5. Other coding / IT projects i worked on:
 	
