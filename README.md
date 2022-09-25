@@ -47,21 +47,26 @@ Chronological order of self-developed projects:
 
 5. Other coding / IT projects i worked on:
 	
-	I 
+	I xxx
+		Description: yyy
       
-	II 
+		repo: https://github.com/bart6o6/AHK-printer-SPL-converter
+      
+		video overview: https://streamable.com/7stj8x
+      
+	
 
 
 I am familiar with:
 
-	1. Intermediate HTML/CSS/vanilla JS
-	2. Basics of jQuery
-	3. Basics of PHP queries
-	4. Intermediate Bootstrap framework 
-	5. Basics of websites creating with Wordpress and Elementor
-	6. Intermediate AutoHotkey
-	7. Very good knowledge of Excel sheets and basics of VBA coding
-	8. Basics of working with GIT
-	9. GIMP graphics manipulation and willing to learn Figma
-	10. 
+1. Intermediate HTML/CSS/vanilla JS
+2. Basics of jQuery
+3. Basics of PHP queries
+4. Intermediate Bootstrap framework 
+5. Basics of websites creating with Wordpress and Elementor
+6. Intermediate AutoHotkey
+7. Very good knowledge of Excel sheets and basics of VBA coding
+8. Basics of working with GIT
+9. GIMP graphics manipulation and willing to learn Figma
+10. 
 
