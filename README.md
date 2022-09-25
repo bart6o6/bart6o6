@@ -47,11 +47,11 @@ Chronological order of self-developed projects:
 
 5. Other coding / IT projects i worked on:
 	
-	I xxx
+	a) xxx
 		Description: yyy
-      
-		repo: https://github.com/bart6o6/AHK-printer-SPL-converter
-      
+                
+	        repo: https://github.com/bart6o6/AHK-printer-SPL-converter
+                
 		video overview: https://streamable.com/7stj8x
       
 	
