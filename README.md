@@ -1,8 +1,8 @@
 Hi, my name is Bartek.
 I'm from Poland and currently living near Wroclaw city.
 
-Since basically always I've been interested in computers and programming was some part of it as a hobby or school lessons.
-I've completed a bachelor's and master's degree at AGH University in Cracow at a metallurgical facaulty with a thesis study on casting flow and cristalization study.
+Since basically always I've been interested in computers - fixing them and testing new software. Programming was also some part of it as a hobby or school lessons.
+I've completed a bachelor's and master's degree at AGH University in Cracow at a metallurgical facaulty with a thesis on casting flow and cristalization study.
 
 Currently I'm looking for my first job in front/back-end web development.
 It is challenging to create my projects after a full-time work as an engineer, but I'm trying my best and don't plan stopping.
@@ -76,3 +76,7 @@ I am familiar with:
 8. Basics of working with GIT
 9. GIMP graphics manipulation and willing to learn Figma
 
+
+If you'd like to contact me in any case, I'm reachable with the below forms:
+- email: bartek606@protonmail.com
+- wickr.me: bartGitHub
