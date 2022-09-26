@@ -47,7 +47,7 @@ Chronological order of self-developed projects:
 
 5. Other coding / IT projects i worked on:
 	
--	a) An AutoHotkey script to read *.spl files stored by the printer
+-  An AutoHotkey script to read *.spl files stored by the printer
  
 	Description: The script can be placed in any directory. It converts spl->pdf and then reads the content of the pdf and saves it to a txt file. 
 	Combined with a cyclic robocopy .bat script the process was very simplified in our company. Now all the data from an old 				analisys program can be compared inside an Excel Power Query file.
@@ -56,9 +56,13 @@ Chronological order of self-developed projects:
 	
 	video overview: https://streamable.com/7stj8x
       
-	b) An AutoHotkey script to read *.spl files stored by the printer
--
-
+-	2
+	
+	Description:
+	
+	repo:
+	
+	video overview:
 
 I am familiar with:
 
@@ -71,5 +75,4 @@ I am familiar with:
 7. Very good knowledge of Excel sheets and basics of VBA coding
 8. Basics of working with GIT
 9. GIMP graphics manipulation and willing to learn Figma
-10. 
 
