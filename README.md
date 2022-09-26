@@ -1,3 +1,8 @@
+If you'd like to contact me in any case, I'm reachable with the below forms:
+- email: bartek606@protonmail.com
+- wickr.me: bartGitHub
+---	
+
 Hi, my name is Bartek.
 I'm from Poland and currently living near Wroclaw city.
 
@@ -76,7 +81,3 @@ I am familiar with:
 8. Basics of working with GIT
 9. GIMP graphics manipulation and willing to learn Figma
 
-
-If you'd like to contact me in any case, I'm reachable with the below forms:
-- email: bartek606@protonmail.com
-- wickr.me: bartGitHub
