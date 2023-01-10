@@ -15,7 +15,7 @@ Check the below presented list of my git-hub repositories, skills I'm developing
 
 
 
-Chronological order of self-developed projects:
+Chronological order (most advanced at the end) of self-developed projects:
 1. Front-end landing page for a hotel
       
 	Description: built learning html, css, bootstrap, responsive web design
@@ -49,35 +49,45 @@ Chronological order of self-developed projects:
 	repo: https://github.com/bart6o6/Weather-API-fetch
       
 	live demo: https://bart6o6.github.io/Weather-API-fetch/
-
-5. Other coding / IT projects i worked on:
 	
--  An AutoHotkey script to read *.spl files stored by the printer
- 
-	Description: The script can be placed in any directory. It converts spl->pdf and then reads the content of the pdf and saves it to a txt file. 
-	Combined with a cyclic robocopy .bat script the process was very simplified in our company. Now all the data from an old 				analisys program can be compared inside an Excel Power Query file.
-	
-	repo: https://github.com/bart6o6/AHK-printer-SPL-converter
-	
-	video overview: https://streamable.com/7stj8x
+5. Pomodoro timer app
       
--	2
+	Description: Started learning React and its basic concepts like state management and props
+      
+	code + live demo: https://replit.com/@bart6o6/Pomodoro-Timer#index.html
 	
-	Description:
 	
-	repo:
+6. x
+      
+	Description: 
+      
+	repo: 
+      
+	live demo: 
+      
+
+I. Other coding / IT projects i worked on:
 	
-	video overview:
+I.a  An AutoHotkey script to read *.spl files stored by the printer
+
+Description: The script can be placed in any directory. It converts spl->pdf and then reads the content of the pdf and saves it to a txt file. 
+Combined with a cyclic robocopy .bat script the process was very simplified in our company. Now all the data from an old 					analisys program can be compared inside an Excel Power Query file.
+
+repo: https://github.com/bart6o6/AHK-printer-SPL-converter
+
+video overview: https://streamable.com/7stj8x
+      
+----------------------
 
 I am familiar with:
 
-1. Intermediate HTML/CSS/vanilla JS
-2. Basics of jQuery
-3. Basics of PHP queries
-4. Intermediate Bootstrap framework 
-5. Basics of websites creating with Wordpress and Elementor
-6. Intermediate AutoHotkey
-7. Very good knowledge of Excel sheets and basics of VBA coding
-8. Basics of working with GIT
-9. GIMP graphics manipulation and willing to learn Figma
-
+- Intermediate HTML/CSS/vanilla JS
+- begginner in React
+- Basics of jQuery
+- Basics of PHP queries
+- Intermediate Bootstrap framework 
+- Basics of websites creating with Wordpress and Elementor
+- Intermediate AutoHotkey
+- Very good knowledge of Excel sheets and basics of VBA coding
+- Basics of working with GIT
+- GIMP graphics manipulation and willing to learn Figma
