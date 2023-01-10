@@ -9,13 +9,14 @@ I'm from Poland and currently living near Wroclaw city.
 Since basically always I've been interested in computers - fixing them and testing new software. Programming was also some part of it as a hobby or school lessons.
 I've completed a bachelor's and master's degree at AGH University in Cracow at a metallurgical facaulty with a thesis on casting flow and cristalization study.
 
-Currently I'm looking for my first job in front/back-end web development.
+Currently I'm looking for my first job in web development.
 It is challenging to create my projects after a full-time work as an engineer, but I'm trying my best and don't plan stopping.
 Check the below presented list of my git-hub repositories, skills I'm developing and forms of reaching me with any questions or feedback which will be very appreciated.
 
 
 
-Chronological order (most advanced at the end) of self-developed projects:
+Chronological order of self-developed projects (most advanced at the end):
+
 1. Front-end landing page for a hotel
       
 	Description: built learning html, css, bootstrap, responsive web design
@@ -50,20 +51,20 @@ Chronological order (most advanced at the end) of self-developed projects:
       
 	live demo: https://bart6o6.github.io/Weather-API-fetch/
 	
-5. Pomodoro timer app
+5. React pomodoro timer
       
 	Description: Started learning React and its basic concepts like state management and props
       
 	code + live demo: https://replit.com/@bart6o6/Pomodoro-Timer#index.html
 	
 	
-6. x
+6. React To-Do app
       
-	Description: 
+	Description: Further React development, implemented local storage
       
-	repo: 
+	code: 
       
-	live demo: 
+	live demo: https://bart6o6.github.io/React-To-Do/
       
 
 I. Other coding / IT projects i worked on:
