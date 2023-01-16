@@ -65,7 +65,16 @@ Chronological order of self-developed projects (most advanced at the end):
 	code: 
       
 	live demo: https://bart6o6.github.io/React-To-Do/
+	
+6. React app for induction furnance melters
       
+	Description: A bit more complex CRUD app built with Material UI library and supabase. Used by the electric furnance workers and supervisors for daily tracking of materials and electricity consumption.
+      
+	code: work in progress
+      
+	live demo: work in progress
+	
+----------------------
 
 I. Other coding / IT projects i worked on:
 	
